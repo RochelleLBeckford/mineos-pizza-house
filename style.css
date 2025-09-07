@@ -1,9 +1,10 @@
-/* ~ font-family for the entire webpage */
+/* ~ Add this font for the entire webpage */
 * {
     font-family: "Handlee";
 }
 
 body {
+    /* ~ Colors of my VS Code Theme -> Kawaii Gummy */
     background-color: #393a55;
     color: #ff9eb5;
     width: 100%;
