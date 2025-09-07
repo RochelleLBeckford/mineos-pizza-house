@@ -1,6 +1,6 @@
-# Practice: Creating a Webpage using building upon HTML basics and understanding how to use CSS selectors and properties to bring styling with colors, fonts, sizing, layouts, and much more...
+# Practice: Creating a Webpage building upon HTML basics and understanding how to use CSS selectors and properties to bring styling with colors, fonts, sizing, layouts, and much more...
 
-### Practce understanding CSS styling
+### Practce understanding CSS - Cascading Style Sheet
 
 -   [ ] Simple practice to gain a better understanding of the power of adding CSS Styling to a webpage and how it can make it uniquely beautiful
     -   [ ] CSS or Cascading Style Sheet, is a language that paints a website with colors, fonts, layouts, and animations.
@@ -26,10 +26,14 @@
         -   [ ] A copyright symbol for the copyright information
             -   [ ] & copy; -> is the symbol for copyright
         -   [ ] A link to external sources using the "href" attribute of the &lt;a&gt; element for the links in the list item to external sources
-            -   [ ] &lt;a href="/privacy"&gt;Privacy&lt;/a&gt;
-                -   [ ] Use the target attribute to open the link path in a new tab instead of the current page
+        -   [ ] The &lt;ul&gt; element:
+            -   [ ] The unordered list element used to house the links to different eexternal links
+                -   [ ] The &lt;li&gt; element:
+                    -   [ ] Each list element will have a specific external link
+                    -   [ ] &lt;a href="/privacy"&gt;Privacy&lt;/a&gt;
+                    -   [ ] Use the target attribute to open the link path in a new tab instead of the current page
                     -   [ ] <a href="/privacy" target="_blank">Privacy</a>
-                -   [ ] When the user clicks one of these external links, they would be redirected to a new page with the information on it
+                    -   [ ] When the user clicks one of these external links, they would be redirected to a new page with the information on it
 
 ---
 
@@ -44,4 +48,4 @@
 ---
 
 -   [ ] Lnk to visit the webpage:
-    -   [ ] <a href="" target="_blank">rlb-mineos-pizza-house</a>
+    -   [ ] <a href="https://rlb-mineos-pizza-house.netlify.app/" target="_blank">rlb-mineos-pizza-house</a>
